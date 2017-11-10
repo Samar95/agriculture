@@ -1,0 +1,121 @@
+nav li a{
+	font-size: 18px !important;
+	font-family: arial;
+	font-weight: 550;
+	color : #edeaea !important;
+	padding-right:25px !important;
+	padding-left: 25px !important;
+	border-right: 1px solid #444444;
+}
+nav li a:hover {
+	background-color: #14be10 !important;
+}
+div.mynav1{
+	margin-right:50px !important;
+}
+div.d1{
+	background-color: #d1ffcb !important;
+	border :1px solid #8cff7d !important;
+	margin-top: 40px;
+	padding:20px;
+	box-shadow: 2px 2px 2px #8cff7d;
+}
+div.d2{
+	background-color: #ffdbb4 !important;
+	border :1px solid #ffb369 !important;
+	margin-top: 40px;
+	padding:20px;
+	box-shadow: 2px 2px 2px #ffb369;
+}
+p.he1{
+	font-size: 25px;
+	font-weight: 600;
+	color: rgb(65,68,6);
+	padding-bottom: 15px;
+	font-family: "agency fb";
+}
+p.prag{
+	font-size: 13px;
+	font-weight: 600;
+	color: #0b4006;
+}
+button{
+	background-color: rgb(65,68,6);
+	color:white;
+	border:none;
+	margin-top: 20px; 
+	margin-bottom: 8px;
+	width: 130px;
+	height:35px;
+}
+div.links a{
+	color:#fa8e03;
+	text-decoration-line: underline;
+	font-size: 15px;
+
+}
+div.links {
+	margin-bottom: 15px;
+}
+div.smimg img{
+	width:120px;
+	height:120px;
+	border:2px solid #ffb369;
+	box-shadow: 2px 2px 2px #ffb369;
+}
+div.smimg1 img{
+	width:120px;
+	height:130px;
+	border:2px solid #ffb369;
+	box-shadow: 2px 2px 2px #ffb369;
+}
+div.service{
+	padding-top:-70px;
+}
+div.d3 p.prag{
+	margin-left: -15px;
+}
+div.d3 a{
+	margin-left: -10px;
+}
+div.med{
+	padding : 5px;
+}
+div.bottom{
+	padding-top: 40px;
+}
+div.links img{
+	width: 20px;
+	height: 20px;
+	margin-right: 15px;
+	margin-left: -28px;
+}
+div.div2{
+	padding-top: 10%;
+}
+p.foot1{
+	margin-left: 17%;
+	font-size: 20px;
+	color:#2d7600;
+	margin-top: -2%;
+	float: center;
+}
+p.foot2{
+	margin-left: 40%;
+	font-size: 20px;
+	color:#2d7600;
+	float: center;
+}
+p.foot1 a{
+	color:#2d7600;
+}
+div.dfoot{
+	width: 100% ; 
+	background-color:#4be331;
+	padding-top: 4%;
+	margin-top:-3%;
+}
+hr{
+	background-color:black;
+	border-color: #9f9e9e;
+}
